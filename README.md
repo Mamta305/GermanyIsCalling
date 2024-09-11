@@ -43,8 +43,7 @@ After writing the script save your code and right click to choose and RUN
   # After execution to see report:
   * Go to test output folder and find index.html file
   * Right click onto the file and choose open with web browser in open
-  * Avble to see report in browser
-  * 
+  * Able to see report in browser
 
 ## Comments in Code
 
